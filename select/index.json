@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "また君に恋してる",
+  "base_artist": "Billy Banban",
+  "createdAt": "2026-02-25T16:01:12.882899Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "また君に恋してる",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_また君に恋してる_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "また君に恋してる",
+      "artist": "Fuyumi Sakamoto",
+      "has_synced": true,
+      "path": "select/02_また君に恋してる_Fuyumi_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "また君に恋してる (Mata Kimi ni Koishiteru)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_また君に恋してる_(Mata_Kimi_ni_Koishiteru)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "また君に恋してる",
+      "artist": "Billy Ban Ban",
+      "has_synced": true,
+      "path": "select/04_また君に恋してる_Billy_Ban_Ban.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "また君に恋してる",
+      "artist": "May J.",
+      "has_synced": false,
+      "path": "select/05_また君に恋してる_May_J..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "また君に恋してる / Mata kimi ni koishiteru",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_また君に恋してる___Mata_kimi_ni_koishiteru_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "082. また君に恋してる",
+      "artist": "ビリー・バンバン",
+      "has_synced": true,
+      "path": "select/07_082._また君に恋してる_ビリー・バンバン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "また君に恋してる",
+      "artist": "GILLE",
+      "has_synced": false,
+      "path": "select/08_また君に恋してる_GILLE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "また君に恋してる (デュエット・バージョン)",
+      "artist": "Fuyumi Sakamoto",
+      "has_synced": false,
+      "path": "select/09_また君に恋してる_(デュエット・バージョン)_Fuyumi_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "また君に恋してる",
+      "artist": "Tiara",
+      "has_synced": false,
+      "path": "select/10_また君に恋してる_Tiara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また君に恋してる",
+      "artist": "Billy BanBan",
+      "has_synced": false,
+      "path": "select/pl_01_また君に恋してる_Billy_BanBan.txt"
+    }
+  ]
+}
